@@ -1,0 +1,675 @@
+1. J Med Internet Res. 2025 Jan 22;27:e58319. doi: 10.2196/58319.
+
+Efficacy of a Mobile Health-Based Behavioral Treatment for Lifestyle 
+Modification in Type 2 Diabetes Self-Management: Greenhabit Randomized 
+Controlled Trial.
+
+Ruiz-Leon AM(#)(1)(2)(3)(4)(5), Casas R(1)(2)(3)(5), Castro-Barquero 
+S(#)(2)(3)(5), Alfaro-González S(1), Radeva P(6), Sacanella E(1)(2)(5), 
+Casanovas-Garriga F(1)(3), Pérez-Gesalí A(1), Estruch R(1)(2)(3)(5).
+
+Author information:
+(1)Department of Internal Medicine, Hospital Clinic, Institut d'Investigacio 
+Biomèdica August Pi i Sunyer, Barcelona, Spain.
+(2)CIBERobn Fisiopatología de la Obesidad y la Nutrición, Instituto de Salud 
+Carlos III, Madrid, Spain.
+(3)Institut de Recerca en Nutrició i Seguretat Alimentaria. University of 
+Barcelona, Barcelona, Spain.
+(4)Fundación Dieta Mediterránea, Barcelona, Spain.
+(5)Faculty of Medicine and Life Sciences, University of Barcelona, Barcelona, 
+Spain.
+(6)Faculty of Mathematics and Computer Science, University of Barcelona, 
+Barcelona, Spain.
+(#)Contributed equally
+
+BACKGROUND: Enhancing self-management in health care through digital tools is a 
+promising strategy to empower patients with type 2 diabetes (T2D) to improve 
+self-care.
+OBJECTIVE: This study evaluates whether the Greenhabit (mobile health [mHealth]) 
+behavioral treatment enhances T2D outcomes compared with standard care.
+METHODS: A 12-week, parallel, single-blind randomized controlled trial was 
+conducted with 123 participants (62/123, 50%, female; mean age 58.25 years, SD 
+9.46 years) recently diagnosed with T2D. Participants were recruited 
+face-to-face from primary care centers in Barcelona, Spain, between July 2021 
+and March 2022. They were randomly assigned to 1 of 2 groups: (1) an 
+intervention group (n=61) instructed to use the Greenhabit mobile app alongside 
+standard care, or (2) a control group (n=62) who received advice on maintaining 
+a healthy diet and followed standard care. The Greenhabit app incorporates 
+serious gaming technology. Participants received daily messages and challenges 
+focused on promoting a healthy lifestyle, including nutrition, exercise, 
+relaxation, a positive mindset, and a supportive social environment. The app 
+encouraged participants to set weekly goals and awarded points for completing 
+challenges. Data on nutrition, anthropometrics, and blood and urine samples were 
+collected at baseline, 6 weeks, and 12 weeks. Questionnaires assessing quality 
+of life, work-life balance, and social environment were administered at baseline 
+and during the final visit. The primary outcomes were HbA1c and fasting plasma 
+glucose (FPG). Repeated-measures analysis of variance was used to compare 
+changes over time (baseline to 6 weeks and baseline to 12 weeks) between the 2 
+intervention groups. Analysis of covariance was performed to evaluate changes at 
+6 and 12 weeks, adjusted for baseline levels of each variable. Multiple 
+contrasts were corrected using a Bonferroni post hoc test.
+RESULTS: Both groups showed significant reductions in HbA1c after 6 and 12 weeks 
+(mean change in the intervention group [n=50] -0.4%, P<.001 vs -0.3% in the 
+control group [n=53], P=.001) and in FPG after 6 weeks (mean change in the 
+intervention group -5.3 mg/dL, P=.01 vs control group -5.8 mg/dL, P=.01). At 12 
+weeks, the intervention group also showed significant reductions in systolic and 
+diastolic blood pressures (mean change -4.5, P=.049 and -2.4 mmHg, P=.03, 
+respectively), body weight (mean change -0.8 kg, P=.03), BMI (mean change -0.3 
+kg/m2, P=.03), waist circumference (mean change -1.0 cm, P=.046), and 
+triglyceride concentration (mean change -20.0 mg/dL, P=.03). There was also a 
+significant increase in high-density lipoprotein-cholesterol concentrations 
+(mean change 2 mg/dL, P=.049). Finally, improvements were noted in 3 out of the 
+5 elements of balance: positivity, social environment, and work-life balance.
+CONCLUSIONS: The 12-week intervention with the Greenhabit behavioral treatment 
+mHealth app showed beneficial effects on T2D outcomes and reduced the burden of 
+cardiovascular risk factors. Although larger studies are warranted, these 
+results suggest that mHealth apps can be a promising tool for improving T2D 
+self-management.
+TRIAL REGISTRATION: ISRCTN Registry ISRCTN13456652; 
+http://www.isrctn.com/ISRCTN13456652.
+
+©Ana Maria Ruiz-Leon, Rosa Casas, Sara Castro-Barquero, Sofia Alfaro-González, 
+Petia Radeva, Emilio Sacanella, Francesc Casanovas-Garriga, Ainhoa Pérez-Gesalí, 
+Ramon Estruch. Originally published in the Journal of Medical Internet Research 
+(https://www.jmir.org), 22.01.2025.
+
+DOI: 10.2196/58319
+PMCID: PMC11799821
+PMID: 39841995 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest: RE reports receiving 
+grants from the Fundación Dieta Mediterránea (Spain) and Cerveza y Salud 
+(Spain), as well as personal fees for lectures from Brewers of Europe (Belgium), 
+the Fundación Cerveza y Salud (Spain), Pernod Ricard (Mexico), Instituto 
+Cervantes (Albuquerque, United States), Instituto Cervantes (Milan, Italy), 
+Instituto Cervantes (Tokyo, Japan), Lilly Laboratories (Spain), and the Wine and 
+Culinary International Forum (Spain). Additionally, RE received nonfinancial 
+support for organizing a National Congress on Nutrition and for feeding trials 
+with products from Grand Fountain and Uriach Laboratories (Spain). The remaining 
+authors have no conflicts of interest to declare.
+
+
+2. Nutrients. 2021 Oct 29;13(11):3878. doi: 10.3390/nu13113878.
+
+Effectiveness of Health Coaching in Diabetes Control and Lifestyle Improvement: 
+A Randomized-Controlled Trial.
+
+Lin CL(1)(2), Huang LC(1), Chang YT(3), Chen RY(3), Yang SH(4)(5)(6).
+
+Author information:
+(1)Endocrinology & Metabolism, Cathay General Hospital, Taipei 106438, Taiwan.
+(2)School of Medicine, College of Medicine, Taipei Medical University, Taipei 
+110301, Taiwan.
+(3)School of Public Health, Taipei Medical University, Taipei 110301, Taiwan.
+(4)School of Nutrition and Health Sciences, Taipei Medical University, Taipei 
+110301, Taiwan.
+(5)Nutrition Research Center, Taipei Medical University Hospital, Taipei 110301, 
+Taiwan.
+(6)Research Center of Geriatric Nutrition, College of Nutrition, Taipei Medical 
+University, Taipei 110301, Taiwan.
+
+BACKGROUND: The study aimed to look into the effectiveness of a 6-month health 
+coaching intervention for HbA1c and healthy diet in the treatment of patients 
+with type 2 diabetes.
+METHODS: The study was carried out via a two-armed, randomized controlled trial 
+that included 114 diabetic patients at a medical center in Taiwan. During the 
+6-month period, the intervention group had health coaching and usual care for 6 
+months, and the control group had usual care only. The outcome variables were 
+HbA1c level and healthy diet for follow-up measurement in the third and sixth 
+month.
+RESULTS: The study discovered a significant decrease in HbA1c and health diet 
+improvement after the 6-month health coaching. Patients in the intervention 
+group decreased their daily intake of whole grains, fruits, meats and protein, 
+and fats and oils while increasing their vegetables intake.
+CONCLUSIONS: Health coaching may be conducive to the blood sugar control and 
+healthy diet of patients with type 2 diabetes. Further study on health coaching 
+with higher-quality evidence is needed.
+
+DOI: 10.3390/nu13113878
+PMCID: PMC8621665
+PMID: 34836135 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+3. Cardiovasc Diabetol. 2024 Sep 12;23(1):339. doi: 10.1186/s12933-024-02426-5.
+
+Effects of dietary interventions and intermittent fasting on HDL function in 
+obese individuals with T2DM: a randomized controlled trial.
+
+Pammer A(1), Obermayer A(2)(3), Stadler JT(1), Pferschy PN(2), Tripolt NJ(2), 
+Habisch H(4), Madl T(4)(5), Sourij H(6)(7), Marsche G(8)(9).
+
+Author information:
+(1)Otto Loewi Research Center, Division of Pharmacology, Medical University of 
+Graz, Graz, 8010, Austria.
+(2)Interdisciplinary Metabolic Medicine Trials Unit, Division of Endocrinology 
+and Diabetology, Medical University of Graz, Graz, 8036, Austria.
+(3)Department of Psychiatry and Psychotherapeutic Medicine, Medical University 
+of Graz, Graz, 8036, Austria.
+(4)Gottfried Schatz Research Center for Cell Signaling, Metabolism and Aging, 
+Molecular Biology and Biochemistry, Medical University of Graz, Graz, 8010, 
+Austria.
+(5)BioTechMed Graz, Graz, 8010, Austria.
+(6)Interdisciplinary Metabolic Medicine Trials Unit, Division of Endocrinology 
+and Diabetology, Medical University of Graz, Graz, 8036, Austria. 
+ha.sourij@medunigraz.at.
+(7)BioTechMed Graz, Graz, 8010, Austria. ha.sourij@medunigraz.at.
+(8)Otto Loewi Research Center, Division of Pharmacology, Medical University of 
+Graz, Graz, 8010, Austria. gunther.marsche@medunigraz.at.
+(9)BioTechMed Graz, Graz, 8010, Austria. gunther.marsche@medunigraz.at.
+
+BACKGROUND: Cardiovascular disease represents a significant risk factor for 
+mortality in individuals with type 2 diabetes mellitus (T2DM). High-density 
+lipoprotein (HDL) is believed to play a crucial role in maintaining 
+cardiovascular health through its multifaceted atheroprotective effects and its 
+capacity to enhance glycemic control. The impact of dietary interventions and 
+intermittent fasting (IF) on HDL functionality remains uncertain. The objective 
+of this study was to assess the effects of dietary interventions and IF as a 
+strategy to safely improve glycemic control and reduce body weight on functional 
+parameters of HDL in individuals with T2DM.
+METHODS: Before the 12-week intervention, all participants (n = 41) of the 
+INTERFAST-2 study were standardized to a uniform basal insulin regimen and 
+randomized to an IF or non-IF group. Additionally, all participants were advised 
+to adhere to dietary recommendations that promoted healthy eating patterns. The 
+IF group (n = 19) followed an alternate-day fasting routine, reducing their 
+calorie intake by 75% on fasting days. The participants' glucose levels were 
+continuously monitored. Other parameters were measured following the 
+intervention: Lipoprotein composition and subclass distribution were measured by 
+nuclear magnetic resonance spectroscopy. HDL cholesterol efflux capacity, 
+paraoxonase 1 (PON1) activity, lecithin cholesterol acyltransferase (LCAT) 
+activity, and cholesterol ester transfer protein (CETP) activity were assessed 
+using cell-based assays and commercially available kits. Apolipoprotein M (apoM) 
+levels were determined by ELISA.
+RESULTS: Following the 12-week intervention, the IF regimen significantly 
+elevated serum apoM levels (p = 0.0144), whereas no increase was observed in the 
+non-IF group (p = 0.9801). ApoM levels correlated with weight loss and fasting 
+glucose levels in the IF group. Both groups exhibited a robust enhancement in 
+HDL cholesterol efflux capacity (p < 0.0001, p = 0.0006) after 12 weeks. 
+Notably, only the non-IF group exhibited significantly elevated activity of PON1 
+(p = 0.0455) and LCAT (p = 0.0117) following the 12-week intervention. In 
+contrast, the changes observed in the IF group did not reach statistical 
+significance.
+CONCLUSIONS: A balanced diet combined with meticulous insulin management 
+improves multiple metrics of HDL function. While additional IF increases apoM 
+levels, it does not further enhance other aspects of HDL functionality.
+TRIAL REGISTRATION: The study was registered at the German Clinical Trial 
+Register (DRKS) on 3 September 2019 under the number DRKS00018070.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12933-024-02426-5
+PMCID: PMC11395628
+PMID: 39267053 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+4. J Nutr. 2023 Feb;153(2):579-587. doi: 10.1016/j.tjnut.2022.11.020. Epub 2022 Dec 
+23.
+
+A 12-Week Randomized Intervention Comparing the Healthy US, Mediterranean, and 
+Vegetarian Dietary Patterns of the US Dietary Guidelines for Changes in Body 
+Weight, Hemoglobin A1c, Blood Pressure, and Dietary Quality among African 
+American Adults.
+
+Turner-McGrievy GM(1), Wilson MJ(2), Carswell J(2), Okpara N(2), Aydin H(2), 
+Bailey S(2), Davey M(2), Hutto B(3), Wilcox S(4), Friedman DB(2), Sarzynski 
+MA(5), Liese AD(6).
+
+Author information:
+(1)Department of Health Promotion, Education, and Behavior, Arnold School of 
+Public Health, University of South Carolina, Columbia, SC, USA. Electronic 
+address: brie@sc.edu.
+(2)Department of Health Promotion, Education, and Behavior, Arnold School of 
+Public Health, University of South Carolina, Columbia, SC, USA.
+(3)Prevention Research Center, Arnold School of Public Health, University of 
+South Carolina, Columbia, SC, USA.
+(4)Prevention Research Center, Arnold School of Public Health, University of 
+South Carolina, Columbia, SC, USA; Department of Exercise Science, Arnold School 
+of Public Health, University of South Carolina, Columbia, SC, USA.
+(5)Department of Exercise Science, Arnold School of Public Health, University of 
+South Carolina, Columbia, SC, USA.
+(6)Department of Epidemiology and Biostatistics, Arnold School of Public Health, 
+University of South Carolina, Columbia, SC, USA.
+
+BACKGROUND: The US Dietary Guidelines (USDG) form the basis of nutrition 
+guidelines, but the research informing the 3 USDG dietary patterns (Healthy 
+US-Style [H-US], Mediterranean [Med], and vegetarian [Veg]) has been drawn 
+largely from observational studies among White populations.
+OBJECTIVES: The Dietary Guidelines 3 Diets study was a 3-arm, 12-wk randomly 
+assigned intervention among African American (AA) adults at risk of type 2 
+diabetes mellitus that tested the 3 USDG dietary patterns.
+METHODS: The AAs (ages 18-65 y, BMI 25-49.9 kg/m2, and BMI was measured in 
+kg/m2) with ≥3 type 2 diabetes mellitus risk factors were recruited. Weight, 
+HbA1c, blood pressure, and dietary quality (healthy eating index [HEI]) were 
+collected at baseline and 12 wk. In addition, participants attended weekly 
+online classes that were designed using material from the USDG/MyPlate. Repeated 
+measures, mixed models with maximum likelihood estimation, and robust 
+computation of standard errors were tested.
+RESULTS: Of the 227 participants screened, 63 were eligible (83% female; age 
+48.0 ± 10.6 y, BMI 35.9 ± 0.8 kg/m2) and randomly assigned to the Healthy 
+US-Style Eating Pattern (H-US) (n = 21, 81% completion), healthy 
+Mediterranean-style eating pattern (Med) (n = 22, 86% completion), or healthy 
+vegetarian eating pattern (Veg) (n = 20, 70% completion) groups. Within-group, 
+but not between groups, weight loss was significant (-2.4 ± 0.7 kg H-US, -2.6 ± 
+0.7 kg Med, -2.4 ± 0.8 kg Veg; P = 0.97 between group). There was also no 
+significant difference between groups for changes in HbA1c (0.03 ± 0.05% H-US, 
+-0.10 ± 0.05% Med, 0.07 ± 0.06% Veg; P = 0.10), systolic BP (-5.5 ± 2.7 mmHg 
+H-US, -3.2 ± 2.5 mmHg Med, -2.4 ± 2.9 mmHg Veg; P = 0.70), diastolic blood 
+pressure (-5.2 ± 1.8 mmHg H-US, -2.0 ± 1.7 mmHg Med, -3.4 ± 1.9 mmHg Veg; P = 
+0.41), or HEI (7.1 ± 3.2 H-US, 15.2 ± 3.1 Med, 4.6 ± 3.4 Veg; P = 0.06). Post 
+hoc analyses showed that the Med group had significantly greater improvements in 
+HEI compared to the Veg group (difference = -10.6 ± 4.6; 95% CI: -19.7, -1.4; P 
+= 0.02).
+CONCLUSIONS: The present study demonstrates that all 3 USDG dietary patterns 
+lead to significant weight loss among AA adults. However, none of the outcomes 
+were significantly different between groups. This trial was registered at 
+clinicaltrials.gov as NCT04981847.
+
+Copyright © 2022 American Society for Nutrition. Published by Elsevier Inc. All 
+rights reserved.
+
+DOI: 10.1016/j.tjnut.2022.11.020
+PMCID: PMC10196600
+PMID: 36894249 [Indexed for MEDLINE]
+
+
+5. Cell Metab. 2022 Oct 4;34(10):1442-1456.e7. doi: 10.1016/j.cmet.2022.08.018.
+
+Feasibility of time-restricted eating and impacts on cardiometabolic health in 
+24-h shift workers: The Healthy Heroes randomized control trial.
+
+Manoogian ENC(1), Zadourian A(2), Lo HC(2), Gutierrez NR(1), Shoghi A(1), 
+Rosander A(2), Pazargadi A(2), Ormiston CK(2), Wang X(1), Sui J(1), Hou Z(1), 
+Fleischer JG(3), Golshan S(4), Taub PR(5), Panda S(6).
+
+Author information:
+(1)Regulatory Biology, The Salk Institute for Biological Studies, La Jolla, CA 
+92037, USA.
+(2)Division of Cardiovascular Medicine, Department of Medicine, University of 
+California, San Diego, San Diego, CA 92037, USA.
+(3)Department of Cognitive Science, University of California, San Diego, San 
+Diego, CA 92037, USA.
+(4)Department of Psychiatry, University of California, San Diego, San Diego, CA 
+92037, USA.
+(5)Division of Cardiovascular Medicine, Department of Medicine, University of 
+California, San Diego, San Diego, CA 92037, USA. Electronic address: 
+ptaub@ucsd.edu.
+(6)Regulatory Biology, The Salk Institute for Biological Studies, La Jolla, CA 
+92037, USA. Electronic address: satchin@salk.edu.
+
+Comment in
+    Nat Rev Endocrinol. 2022 Dec;18(12):715. doi: 10.1038/s41574-022-00770-8.
+
+Over a quarter of the workforce in industrialized countries does shift work, 
+which increases the risk for cardiometabolic disease. Yet shift workers are 
+often excluded from lifestyle intervention studies to reduce this risk. In a 
+randomized control trial with 137 firefighters who work 24-h shifts (23-59 years 
+old, 9% female), 12 weeks of 10-h time-restricted eating (TRE) was feasible, 
+with TRE participants decreasing their eating window (baseline, mean 14.13 h, 
+95% CI 13.78-14.47 h; intervention, 11.13 h, 95% CI 10.73-11.54 h, p = 3.29E-17) 
+with no adverse effects, and improved quality of life assessed via SF-36 
+(ClinicalTrials.gov: NCT03533023). Compared to the standard of care (SOC) arm, 
+TRE significantly decreased VLDL particle size. In participants with elevated 
+cardiometabolic risks at baseline, there were significant reductions in TRE 
+compared to SOC in glycated hemoglobin A1C and diastolic blood pressure. For 
+individuals working a 24-h shift schedule, TRE is feasible and can improve 
+cardiometabolic health, especially for individuals with increased risk. VIDEO 
+ABSTRACT.
+
+Copyright © 2022 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cmet.2022.08.018
+PMCID: PMC9536325
+PMID: 36198291 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests Affiliations are 
+provided for all authors at the time the work was done. P.R.T. is a consultant 
+for Sanofi/Regeneron, Novo-Nordisk, Boehringer-Ingleheim, Janssen, Pfizer, 
+Amarin, and Amgen. She is a stockholder of Cardero Therapeutics. S.P. is a 
+consultant for Hooke London and the author of The Circadian Code and The 
+Circadian Diabetes Code.
+
+
+6. Br J Gen Pract. 2025 Jun 26;75(756):e457-e465. doi: 10.3399/BJGP.2024.0206. 
+Print 2025 Jul.
+
+Impact of an SMS intervention to support type 2 diabetes self-management: 
+DiabeText clinical trial.
+
+Zamanillo-Campos R(1), Fiol-deRoque MA(2), Serrano-Ripoll MJ(2), Llobera-Canaves 
+J(2), Taltavull-Aparicio JM(3), Leiva-Rus A(2), Ripoll-Amengual J(3), 
+Angullo-Martínez E(4), Socias-Buades IM(5), Masmiquel-Comas L(6), Konieczna 
+J(7), Zaforteza-Dezcallar M(8), Boronat-Moreiro MA(8), Mira-Martínez S(9), 
+Gervilla-García E(10), Ricci-Cabello I(11).
+
+Author information:
+(1)Research Group on Primary Care and Promotion of the Balearic Islands 
+Community (Grapp-CAIB), Health Research Institute of the Balearic Islands 
+(IdISBa), Palma, and Primary Care Research Unit of Mallorca, Balearic Islands 
+Health Service, Palma rocio.zamanillo@ssib.es.
+(2)Research Group on Primary Care and Promotion of the Balearic Islands 
+Community (Grapp-CAIB), Health Research Institute of the Balearic Islands 
+(IdISBa), Palma, and RICAPPS - Red de Investigación Cooperativa de Atención 
+Primaria y Promoción de la Salud, Carlos III Health Institute (ISCIII), Madrid.
+(3)Research Group on Primary Care and Promotion of the Balearic Islands 
+Community (Grapp-CAIB), Health Research Institute of the Balearic Islands 
+(IdISBa), Palma, and Primary Care Research Unit of Mallorca, Balearic Islands 
+Health Service, Palma.
+(4)Research Group on Community Nutrition and Oxidative Stress (NUCOX), Health 
+Research Institute of the Balearic Islands (IdISBa), Palma, and Primary Care 
+Health Services of the Balearic Islands (IbSalut), Palma.
+(5)Primary Care Health Services of the Balearic Islands (IbSalut), Palma.
+(6)Vascular and Metabolic Pathologies Group, Health Research Institute of the 
+Balearic Islands (IdISBa), Palma, and Endocrinology and Nutrition Department, 
+Son Llàtzer University Hospital of the Balearic Islands (IbSalut), Palma.
+(7)Research Group on Nutritional Epidemiology and Cardiovascular Physiopathology 
+(NUTRECOR), Health Research Institute of the Balearic Islands (IdISBa), Palma, 
+and CIBER de Fisiopatología de la Obesidad y Nutrición (CIBERobn), Instituto de 
+Salud Carlos III, Madrid.
+(8)Pharmacy Service, Balearic Islands Health Service, Palma.
+(9)Research Group on Primary Care and Promotion of the Balearic Islands 
+Community (Grapp-CAIB), Health Research Institute of the Balearic Islands 
+(IdISBa), Palma, Spain, and Primary Care Research Unit of Mallorca, Balearic 
+Islands Health Service, Palma.
+(10)Statistical and Psychometric Procedures Applied in Health Sciences 
+(PSICOMEST), Health Research Institute of the Balearic Islands (IdISBa), Palma, 
+and Data Analysis Research Group (GRAD), Psychology Department, University of 
+the Balearic Islands (UIB), Palma.
+(11)Research Group on Primary Care and Promotion of the Balearic Islands 
+Community (Grapp-CAIB), Health Research Institute of the Balearic Islands 
+(IdISBa), Palma, and CIBER de Epidemiología y Salud Pública (CIBEResp), 
+Instituto de Salud Carlos III, Madrid.
+
+BACKGROUND: Complications arising from uncontrolled type 2 diabetes mellitus 
+(T2DM) pose a significant burden on individuals' wellbeing and healthcare 
+resources. Digital interventions may play a key role in mitigating such 
+complications by supporting patients to adequately self-manage their condition.
+AIM: To assess the impact of DiabeText, a new theory-based, patient-centred, 
+mobile health intervention integrated with electronic health records to send 
+tailored short text messages to support T2DM self-management.
+DESIGN AND SETTING: A pragmatic, phase-three, 12-month, two-arm randomised 
+clinical trial involving primary care patients with T2DM in the Balearic 
+Islands, Spain, including in urban and rural areas.
+METHOD: In total, 742 participants with suboptimal glycaemic control (glycated 
+haemoglobin [HbA1c] level >7.5) were randomly allocated to a control (usual 
+care) or intervention (DiabeText) group. In addition to usual care, the 
+DiabeText group received 167 messages focused on healthy lifestyle and 
+medication adherence. The primary outcome was HbA1c level. Secondary outcomes 
+were: medication possession ratio; health-related quality of life (measured 
+using the EQ-5D-5L questionnaire); diabetes self-efficacy (measured using the 
+Diabetes Self-Efficacy Scale [DSES]); and self-reported adherence to medication, 
+Mediterranean diet (measured using the 14-Item Mediterranean Diet Adherence 
+Screener [MEDAS-14]), and physical activity (measured using the International 
+Physical Activity Questionnaire [IPAQ]).
+RESULTS: Over the 12-month period, no statistically significant differences in 
+HbA1c were observed between the intervention and the control groups (β = -0.025 
+[95% confidence interval {CI} = -0.198 to 0.147; P = 0.772]). In comparison with 
+the control group, the DiabeText group showed significant (P<0.05) improvements 
+in self-reported medication adherence (odds ratio = 1.4; 95% CI = 1.0 to 1.9), 
+DSES (Cohen's d = 0.35), and EQ-5D-5L (Cohen's d = 0.18) scores, but not for the 
+rest of the secondary outcomes.
+CONCLUSION: DiabeText successfully improved quality of life, diabetes 
+self-management, and self-reported medication adherence in primary care patients 
+with T2DM. Further research is needed to enhance its effects on physiological 
+outcomes.
+
+© The Authors.
+
+DOI: 10.3399/BJGP.2024.0206
+PMCID: PMC11755587
+PMID: 39362693 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors have declared 
+no competing interests.
+
+
+7. Diabetes Care. 2022 Sep 1;45(9):1943-1952. doi: 10.2337/dc22-0338.
+
+Lifestyle Intervention Strategy to Treat Diabetes in Older Adults: A Randomized 
+Controlled Trial.
+
+Celli A(1)(2), Barnouin Y(1)(2), Jiang B(1)(2), Blevins D(1)(2), Colleluori 
+G(1)(2), Mediwala S(1)(2), Armamento-Villareal R(1)(2), Qualls C(3), Villareal 
+DT(1)(2).
+
+Author information:
+(1)Division of Endocrinology, Diabetes, and Metabolism, Baylor College of 
+Medicine, Houston, TX.
+(2)Center for Translational Research on Inflammatory Diseases, Michael E. 
+DeBakey VA Medical Center, Houston, TX.
+(3)Department of Mathematics and Statistics, University of New Mexico School of 
+Medicine, Albuquerque, NM.
+
+OBJECTIVE: Lifestyle intervention is recommended as first-line treatment of 
+diabetes at all ages; however, little is known about the efficacy of lifestyle 
+intervention in older adults with diabetes. We aimed to determine whether 
+lifestyle intervention would improve glycemic control and age-relevant outcomes 
+in older adults with diabetes and comorbidities.
+RESEARCH DESIGN AND METHODS: A total of 100 older adults with diabetes were 
+randomly assigned to 1-year intensive lifestyle intervention (ILI) (diet and 
+exercise at a facility transitioned into community-fitness centers and homes) or 
+healthy lifestyle (HL) group. The primary outcome was change in HbA1c. Secondary 
+outcomes included glucoregulation, body composition, physical function, and 
+quality of life. Changes between groups were analyzed with mixed-model 
+repeated-measures ANCOVA following the intention-to-treat principle.
+RESULTS: HbA1c improved more in the ILI than the HL group (mean ± SE -0.8 ± 0.1 
+vs. 0.1 ± 0.1%), associated with improved insulin sensitivity (1.2 ± 0.2 vs. 
+-0.4 ± 0.2) and disposition (26.0 ± 8.9 vs. -13.0 ± 8.4 109 min-1) indices 
+(between-group P < 0.001 to 0.04). Body weight and visceral fat decreased more 
+in the ILI than HL group (-8.4 ± 0.6 vs. -0.3 ± 0.6 kg, P < 0.001, and -261 ± 29 
+vs. -30 ± 27 cm3, P < 0.001, respectively). Physical Performance Test score 
+increased more in the ILI than HL group (2.9 ± 0.6 vs. -0.1 ± 0.4, P < 0.001) as 
+did VO2peak (2.2 ± 0.3 vs. -1.2 ± 0.2 mL/kg/min, P < 0.001). Strength, gait, and 
+36-Item Short Form Survey (SF-36) Physical Component Summary score also improved 
+more in the ILI group (all P < 0.001). Total insulin dose decreased in the ILI 
+group by 19.8 ± 4.4 units/day. Adverse events included increased episodes of 
+mild hypoglycemia in the ILI group.
+CONCLUSIONS: A lifestyle intervention strategy is highly successful in improving 
+metabolic and functional health of older adults with diabetes.
+
+© 2022 by the American Diabetes Association.
+
+DOI: 10.2337/dc22-0338
+PMCID: PMC9472494
+PMID: 35880801 [Indexed for MEDLINE]
+
+
+8. J Sci Med Sport. 2025 Nov;28(11):928-937. doi: 10.1016/j.jsams.2025.05.013. Epub 
+2025 May 28.
+
+Effects of a personal health coaching intervention (dbcoach) on physical 
+activity and glycated hemoglobin in patients with type 2 diabetes - A randomized 
+controlled trial.
+
+Hohberg V(1), Lichtenstein E(2), Kreppke JN(2), Kohl J(3), Donath M(4), 
+Streckmann F(2), Gerber M(2), Zahner L(2), Faude O(5).
+
+Author information:
+(1)Department of Sport, Exercise and Health, University of Basel, Switzerland; 
+Institute of Movement and Neurosciences, German Sport University Cologne, 
+Germany. Electronic address: v.hohberg@dshs-koeln.de.
+(2)Department of Sport, Exercise and Health, University of Basel, Switzerland.
+(3)Department of Sport and Sport Science, University of Freiburg, Germany.
+(4)Endocrinology and Diabetology, University Hospital Basel, Switzerland.
+(5)Department of Sport, Exercise and Health, University of Basel, Switzerland. 
+Electronic address: https://twitter.com/OliverFaude.
+
+OBJECTIVES: This study aims to evaluate the effectiveness of the dbcoach 
+intervention in improving key health outcomes in patients with type 2 diabetes.
+DESIGN: The study employed a pragmatic randomized controlled trial with 100 
+participants randomly assigned to either an intervention group receiving 
+12 months of telephone-based coaching plus standard care, or a control group 
+receiving standard care only.
+METHODS: Primary outcomes were objectively measured moderate-to-vigorous 
+physical activity and glycated hemoglobin, while secondary outcomes included 
+further physical activity measures, diet, anthropometrics, medication, and 
+quality of life. Data were collected at baseline as well as after 6 and 
+12 months. Linear mixed-effects models were employed for analysis.
+RESULTS: The intervention improved moderate-to-vigorous physical activity 
+(Cohen's d = 0.51; 95 % confidence interval: 0.11, 0.90) with an increase of 
+14.2 (95 % confidence interval: 3.0, 25.3) minutes per day. However, the effect 
+on glycated hemoglobin was negligible (95 % confidence interval: -0.20; 0.32, 
+-0.72). Sedentary behavior was decreased (Cohen's d = -0.20; -0.71, 0.31). 
+Analysis of medication showed variability, with decreased use of total insulin 
+(rate ratio = 0.82; confidence interval 0.50, 3.03), but higher overall diabetes 
+medication in the intervention group. There were no differences in diet (Cohen's 
+d = -0.12; 95 % confidence interval: -0.78, 0.53) and BMI (Cohen's d = 0.01; 95% 
+confidence interval: -0.16, 0.15).
+CONCLUSIONS: The dbcoach intervention increased physical activity but did not 
+impact glycated hemoglobin in type 2 diabetes patients. While the intervention 
+can enhance physical activity, additional strategies may be necessary for 
+glycemic control.
+
+Copyright © 2025 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.jsams.2025.05.013
+PMID: 40500612 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interest statement Vivien 
+Hohberg, Eric Lichtenstein, Jan-Niklas Kreppke, Fiona Streckmann, Markus Gerber, 
+and Oliver Faude do not have any conflict of interest with regard to the content 
+of the present manuscript. Jan Kohl received payment from SalutaCoach AG for the 
+training and supervision of coaches in the area of diet. Lukas Zahner is the 
+founder of SalutaCoach AG, which trained the coaches in this study, but neither 
+conducted the study nor evaluated the results. The results of the study are 
+presented clearly, honestly, and without fabrication, falsification, or 
+inappropriate data manipulation. The results of the present study do not 
+constitute endorsement by the American College of Sports Medicine.
+
+
+9. Transl Behav Med. 2021 Dec 14;11(12):2144-2154. doi: 10.1093/tbm/ibab113.
+
+Improvements in physical activity and some dietary behaviors in a community 
+health worker-led diabetes self-management intervention for adults with low 
+incomes: results from a randomized controlled trial.
+
+Gray KE(1)(2), Hoerster KD(1)(3)(4), Taylor L(1), Krieger J(2)(5)(6), Nelson 
+KM(1)(2)(6)(7).
+
+Author information:
+(1)Department of Veterans Affairs, Health Services Research & Development, 
+Seattle-Denver Center of Innovation for Veteran-Centered and Value-Driven Care, 
+Seattle, WA, USA.
+(2)Department of Health Systems and Population Health, University of Washington 
+School of Public Health, Seattle, WA, USA.
+(3)Mental Health Service, VA Puget Sound Healthcare System, Seattle Division, 
+Seattle, WA, USA.
+(4)Department of Psychiatry and Behavioral Sciences, University of Washington, 
+Seattle, WA, USA.
+(5)Healthy Food America, Seattle, WA, USA.
+(6)Department of Medicine, University of Washington, Seattle, WA, USA.
+(7)General Internal Medicine Service, VA Puget Sound Health Care System, 
+Seattle, WA, USA.
+
+People with low incomes have a disproportionate prevalence of diabetes and its 
+complications and experience many barriers to self-management, which community 
+health workers (CHWs) may help address. We sought to examine the effects of an 
+in-home CHW-led intervention for adults with diabetes and incomes <250% of the 
+federal poverty line on self-management behaviors and test mediators and 
+moderators. From 2010 to 2013, we randomized participants from three Washington 
+State health systems with type 2 diabetes and hemoglobin A1c (HbA1c) ≥ 8% to the 
+CHW intervention (N = 145) or usual care control (N = 142) arms. We examined 
+effects on 12-month self-management: physical activity, dietary behaviors, 
+medication taking, blood glucose monitoring, foot care, and tobacco use. For 
+behaviors with significant intervention-control group differences, we tested 
+mediation by self-efficacy and social support. We also investigated whether 
+intervention-associated changes in behaviors varied by race/ethnicity, gender, 
+and baseline values of HbA1c, diabetes distress, depression, and food insecurity 
+(moderators). Compared to controls, intervention participants engaged in more 
+physical activity and reported better dietary behaviors for some measures 
+(general diet, frequency of skipping meals, and frequency of eating out) at 
+12-months, but there was no evidence of mediation by self-efficacy or social 
+support. Evidence of moderation was limited: improvements in the frequency of 
+skipping meals were restricted to participants with baseline HbA1c < 10%. Study 
+findings suggest CHWs could be integrated into diabetes care to effectively 
+support lifestyle changes around physical activity and some eating behaviors 
+among adults with low incomes. More research is needed to understand mechanisms 
+of change.
+
+Published by Oxford University Press on behalf of the Society of Behavioral 
+Medicine 2021.
+
+DOI: 10.1093/tbm/ibab113
+PMCID: PMC8670415
+PMID: 34424331 [Indexed for MEDLINE]
+
+
+10. JAMA Intern Med. 2025 Dec 1;185(12):1434-1441. doi: 
+10.1001/jamainternmed.2025.5420.
+
+Voucher for Healthy Foods and Diabetes Control: A Randomized Clinical Trial.
+
+Persaud N(1)(2)(3)(4), Ul Haq MZ(2), Buadu A(2), Sabir A(2), Sinha L(2), Thorpe 
+KE(4)(5), Xu K(6), Hwang SW(2)(7), Pinto AD(1)(2)(3), Gucciardi E(8).
+
+Author information:
+(1)Department of Family and Community Medicine, University of Toronto, Toronto, 
+Ontario, Canada.
+(2)MAP Centre for Urban Health Solutions, Li Ka Shing Knowledge Institute, St 
+Michael's Hospital, Unity Health Toronto, Toronto, Ontario, Canada.
+(3)Department of Family and Community Medicine, St Michael's Hospital, Unity 
+Health Toronto, Ontario, Canada.
+(4)Dalla Lanna School of Public Health, University of Toronto, Toronto, Ontario, 
+Canada.
+(5)Hospital for Sick Children, Toronto, Ontario, Canada.
+(6)Applied Health Research Centre, Li Ka Shing Knowledge Institute, St Michael's 
+Hospital, Unity Health Toronto, Toronto, Ontario, Canada.
+(7)Department of Medicine, University of Toronto, Toronto, Ontario, Canada.
+(8)School of Nutrition, Toronto Metropolitan University, Toronto, Ontario, 
+Canada.
+
+Erratum in
+    JAMA Intern Med. 2026 Jul 1;186(7):915. doi: 
+10.1001/jamainternmed.2026.2377.
+
+IMPORTANCE: Programs to improve access to healthy foods for people with diabetes 
+exist in some jurisdictions but not others, and their effects on disease control 
+are not established.
+OBJECTIVE: To measure the effect of a monthly grocery store voucher that allows 
+access to healthy foods on diabetes control in patients experiencing food 
+insecurity.
+DESIGN, SETTING, AND PARTICIPANTS: This randomized parallel-arm clinical trial 
+was conducted from March 21, 2023, to April 1, 2025, at 7 sites in Toronto, 
+Canada. Patients were randomly allocated to a monthly voucher or usual access to 
+healthy foods. Eligibility required hemoglobin A1c (HbA1c) levels from 6.0% to 
+11% and food insecurity. Data analysis was conducted in May 2025.
+INTERVENTION: A $65 monthly voucher ($85 for those in households with 6 or more 
+individuals) for 6 months.
+MAIN OUTCOMES AND MEASURES: The primary outcome was change in HbA1c levels from 
+baseline to 6 months. Secondary outcomes included levels of β-carotene and 
+ascorbic acid, self-reported fruit and vegetable consumption, financial 
+security, food security, and general health.
+RESULTS: Of 1061 patients approached, 390 were enrolled (mean [SD] age, 60 [13] 
+years; 191 [49%] men, 198 [51%] women); 81 (21%) identified as Black, 93 (24%) 
+identified as South Asian, and 105 (27%) identified as White. Overall, 194 (50%) 
+were randomly allocated to receive the voucher and 196 (50%) to control. The 
+nonsignificant mean difference between voucher and control in the change in 
+HbA1c was -0.18% (95% CI, -0.41 to 0.05; P = .13; mean difference adjusted for 
+baseline HbA1c, age, sex, household size, and condition, -0.10%; 95% CI, -0.33 
+to 0.12; P = .35). The voucher improved self-reported vegetable consumption 
+(44.7% vs 21.5% 2 or more times per day), fruit consumption (42.6% vs 22.7% 2 or 
+more times per day), food insecurity (risk difference, -0.10; 95% CI, -0.18 to 
+-0.02), and general health (odds ratio, 1.6; 95% CI, 1.1-2.3) but not financial 
+insecurity (risk difference, -0.07; 95% CI, -0.16 to 0.02) or β-carotene level 
+(mean difference, 0.01 µmol/L; 95% CI, -0.08 to 0.06) and ascorbic acid level 
+(mean difference, -0.18 µmol/L; 95% CI, -4.3 to 4.7).
+CONCLUSIONS AND RELEVANCE: In this randomized clinical trial, a monthly food 
+voucher did not have an effect on HbA1c control or objective measures of diet 
+quality but the voucher did increase self-reported vegetable and fruit 
+consumption.
+TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT05776420.
+
+DOI: 10.1001/jamainternmed.2025.5420
+PMCID: PMC12538504
+PMID: 41114992 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Xu reported 
+principle investigator payment to institution for statistical support from 
+Applied Health Research Center during the conduct of the study. Dr Pinto 
+reported support as a clinician-scientist by the Department of Family and 
+Community Medicine, Faculty of Medicine at the University of Toronto and at St. 
+Michael’s Hospital, by a CIHR Applied Public Health Chair, and as director of 
+the University of Toronto Practice- and Community-Based Learning and Research 
+Network (UPLEARN). No other disclosures were reported.
